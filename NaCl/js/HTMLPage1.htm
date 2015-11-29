@@ -1,0 +1,44 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+	<head>
+		<title></title>
+		<script type="text/javascript">
+			function printHex(pfx, bytes) {
+				document.writeln(pfx);
+				for (var i = 0; i < bytes.length; i++) {
+					var str;
+					if (bytes[i] == null) {
+						str = "NULL ";
+					} else {
+						//str = '0x' + bytes[i].toString(16);
+						str = bytes[i].toString(16);
+						if (str.length < 2) str = '0' + str;
+					}
+					document.write(str);
+				}
+				document.writeln("<br />");
+			}
+			function ZeroArray(size) {
+				var arr = new Array(size);
+				for (var i = 0; i < size; i++) arr[i] = 0;
+				return arr;
+			}
+		</script>
+		<script type="text/javascript" src="curve25519.js"></script>
+		<script type="text/javascript" src="curve25519xsalsa20poly1305.js"></script>
+	</head>
+	<body>
+		<script type="text/javascript">
+			var pk = new Array(32);
+			var sk = new Array(32);
+			sk = [0xb2, 0xe8, 0xa, 0x23, 0xe5, 0xb1, 0x83, 0x4e, 0x1, 0x71, 0x6d, 0xc6, 0xd3, 0xaa, 0x87, 0xec, 0x2, 0x19, 0x1b, 0x17, 0x91, 0xcb, 0x9e, 0x7f, 0x81, 0x80, 0x4d, 0xb2, 0xd2, 0x2, 0x6f, 0x77];
+			//curve25519xsalsa20poly1305.crypto_box_keypair(pk, sk);
+			var dt = new Date();
+			for (var i = 0; i < 10; i++)
+			curve25519.crypto_scalarmult_base(pk, sk);
+			document.writeln("Time taken: " + ((new Date()) - dt).toString() + "<br />");
+			printHex('Secret key: ', sk);
+			printHex('Public key: ', pk);
+		</script>
+	</body>
+</html>
