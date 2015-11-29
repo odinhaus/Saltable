@@ -1,0 +1,5 @@
+D:\Code\Altus\Saltable\NaCl\bin\Debug\Saltable.dll
+D:\Code\Altus\Saltable\NaCl\bin\Debug\Saltable.pdb
+D:\Code\Altus\Saltable\NaCl\obj\Debug\Saltable.csprojResolveAssemblyReference.cache
+D:\Code\Altus\Saltable\NaCl\obj\Debug\Saltable.dll
+D:\Code\Altus\Saltable\NaCl\obj\Debug\Saltable.pdb
