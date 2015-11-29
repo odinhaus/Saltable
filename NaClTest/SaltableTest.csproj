@@ -72,9 +72,9 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\NaCl\NaCl.csproj">
+    <ProjectReference Include="..\NaCl\Saltable.csproj">
       <Project>{b22d5e91-abd3-4ec8-9c0a-7e8029235dfa}</Project>
-      <Name>NaCl</Name>
+      <Name>Saltable</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

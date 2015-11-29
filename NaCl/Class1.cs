@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Diagnostics;
-using UCIS.NaCl.Box;
+using Altus.Saltable.Box;
 
-namespace UCIS.NaCl {
+namespace Altus.Saltable {
 	unsafe public class Class1 {
 		public static void PrintHex(UInt32[] h) {
 			Console.Write("Output: ");

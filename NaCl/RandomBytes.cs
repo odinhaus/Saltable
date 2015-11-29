@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace UCIS.NaCl {
+namespace Altus.Saltable {
 	class RandomBytes {
 		static Random rnd = new Random();
 		public static void generate(Byte[] x) {

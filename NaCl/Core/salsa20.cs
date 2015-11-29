@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace UCIS.NaCl.Core {
+namespace Altus.Saltable.Core {
 	static unsafe class Salsa20 {
 		const int crypto_core_salsa20_ref_OUTPUTBYTES = 64;
 		const int crypto_core_salsa20_ref_INPUTBYTES = 16;

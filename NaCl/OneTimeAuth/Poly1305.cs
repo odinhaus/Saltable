@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace UCIS.NaCl.OneTimeAuth {
+namespace Altus.Saltable.OneTimeAuth {
 	unsafe static class Poly1305 {
 		const int CRYPTO_BYTES = 16;
 		const int CRYPTO_KEYBYTES = 32;

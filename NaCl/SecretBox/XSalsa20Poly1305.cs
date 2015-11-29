@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace UCIS.NaCl.SecretBox {
+namespace Altus.Saltable.SecretBox {
 	unsafe static class XSalsa20Poly1305 {
 		const int crypto_secretbox_KEYBYTES = 32;
 		const int crypto_secretbox_NONCEBYTES = 24;

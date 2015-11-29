@@ -3,7 +3,8 @@ C:\SnapSafe\NaCl\bin\Debug\UCIS.NaCl.pdb
 C:\SnapSafe\NaCl\obj\Debug\NaCl.csprojResolveAssemblyReference.cache
 C:\SnapSafe\NaCl\obj\Debug\UCIS.NaCl.exe
 C:\SnapSafe\NaCl\obj\Debug\UCIS.NaCl.pdb
-D:\Code\Altus\Saltable\NaCl\bin\Debug\UCIS.NaCl.exe
-D:\Code\Altus\Saltable\NaCl\bin\Debug\UCIS.NaCl.pdb
-D:\Code\Altus\Saltable\NaCl\obj\Debug\UCIS.NaCl.exe
-D:\Code\Altus\Saltable\NaCl\obj\Debug\UCIS.NaCl.pdb
+D:\Code\Altus\Saltable\NaCl\bin\Debug\NaCl.exe
+D:\Code\Altus\Saltable\NaCl\bin\Debug\NaCl.pdb
+D:\Code\Altus\Saltable\NaCl\obj\Debug\NaCl.csprojResolveAssemblyReference.cache
+D:\Code\Altus\Saltable\NaCl\obj\Debug\NaCl.exe
+D:\Code\Altus\Saltable\NaCl\obj\Debug\NaCl.pdb

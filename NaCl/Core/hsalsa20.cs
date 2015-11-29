@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace UCIS.NaCl.Core {
+namespace Altus.Saltable.Core {
 	unsafe static class HSalsa20 {
 		//#include "crypto_core.h"
 		const int ROUNDS = 20;

@@ -14,11 +14,11 @@ D:\Code\Altus\Saltable\NaClTest\bin\Debug\NaClTest.exe.config
 D:\Code\Altus\Saltable\NaClTest\bin\Debug\NaClTest.exe
 D:\Code\Altus\Saltable\NaClTest\bin\Debug\NaClTest.pdb
 D:\Code\Altus\Saltable\NaClTest\bin\Debug\NAudio.dll
-D:\Code\Altus\Saltable\NaClTest\bin\Debug\UCIS.NaCl.exe
-D:\Code\Altus\Saltable\NaClTest\bin\Debug\UCIS.NaCl.pdb
 D:\Code\Altus\Saltable\NaClTest\bin\Debug\NAudio.xml
 D:\Code\Altus\Saltable\NaClTest\obj\Debug\NaClTest.csprojResolveAssemblyReference.cache
 D:\Code\Altus\Saltable\NaClTest\obj\Debug\NaClTest.Form1.resources
 D:\Code\Altus\Saltable\NaClTest\obj\Debug\NaClTest.csproj.GenerateResource.Cache
 D:\Code\Altus\Saltable\NaClTest\obj\Debug\NaClTest.exe
 D:\Code\Altus\Saltable\NaClTest\obj\Debug\NaClTest.pdb
+D:\Code\Altus\Saltable\NaClTest\bin\Debug\NaCl.exe
+D:\Code\Altus\Saltable\NaClTest\bin\Debug\NaCl.pdb

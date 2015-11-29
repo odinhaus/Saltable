@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using UCIS.NaCl.Box;
+using Altus.Saltable.Box;
 
-namespace UCIS.NaCl
+namespace Altus.Saltable
 {
     public class NaClClient
     {

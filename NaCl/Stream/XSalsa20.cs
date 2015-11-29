@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace UCIS.NaCl.Stream {
+namespace Altus.Saltable.Stream {
 	static unsafe class XSalsa20 {
 		const int crypto_stream_xsalsa20_ref_KEYBYTES = 32;
 		const int crypto_stream_xsalsa20_ref_NONCEBYTES = 24;

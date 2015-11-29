@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace UCIS.NaCl.Verify {
+namespace Altus.Saltable.Verify {
 	unsafe static class _16 {
 		const int crypto_verify_16_ref_BYTES = 16;
 

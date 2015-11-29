@@ -9,7 +9,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using UCIS.NaCl;
+using Altus.Saltable;
 
 namespace NaClTest
 {

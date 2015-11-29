@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NaClTest", "NaClTest\NaClTest.csproj", "{9DBF8CF7-2D7E-4685-A390-6432B46D5A2E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaltableTest", "NaClTest\SaltableTest.csproj", "{9DBF8CF7-2D7E-4685-A390-6432B46D5A2E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NaCl", "NaCl\NaCl.csproj", "{B22D5E91-ABD3-4EC8-9C0A-7E8029235DFA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Saltable", "NaCl\Saltable.csproj", "{B22D5E91-ABD3-4EC8-9C0A-7E8029235DFA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

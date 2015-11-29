@@ -1,7 +1,7 @@
 ﻿using System;
-using UCIS.NaCl;
+using Altus.Saltable;
 
-namespace UCIS.NaCl.Box {
+namespace Altus.Saltable.Box {
 	public class Curve25519XSalsa20Poly1305 {
 		/* constants */
 		public const int PUBLICKEYBYTES = 32;

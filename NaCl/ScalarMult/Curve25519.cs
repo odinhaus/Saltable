@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace UCIS.NaCl.ScalarMult {
+namespace Altus.Saltable.ScalarMult {
 	unsafe public static class Curve25519 {
 		const int CRYPTO_BYTES = 32;
 		const int CRYPTO_SCALARBYTES = 32;
