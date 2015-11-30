@@ -31,6 +31,9 @@ namespace NaClTest
             byte[] apk, ask, bpk, bsk;
             NaClClient.CreateKeys(out apk, out ask);
             NaClClient.CreateKeys(out bpk, out bsk);
+
+            var hasher = System.Security.Cryptography.SHA256.Create();
+            
             _clientA = NaClClient.Create(apk, ask, bpk);
             _clientB = NaClClient.Create(bpk, bsk, apk);
 
